@@ -1,4 +1,4 @@
-#💧  Example of combining Swift and C
+# 💧  Example of combining Swift and C
 
 This repository is exmpale of ***How to combine Swift and C into once package***.
 
