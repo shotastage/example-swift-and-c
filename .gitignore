@@ -1,0 +1,7 @@
+# C++ related debug files.
+*.out
+*.o
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
